@@ -27,14 +27,14 @@ Vite v5.4.10, Link : https://vite.dev/
 
 1. First, make a `.env` file in the root directory, then make a `VITE_API_KEY` variable to store the API Key value on the `.env` file, exm :
 
-```
-VITE_API_KEY = YOUR_OPEN_WEATHER_API_KEY
-```
+   ```
+   VITE_API_KEY = YOUR_OPEN_WEATHER_API_KEY
+   ```
 
 2. second, run the project by typing :
 
-```
-npm run dev
-```
+   ```
+   npm run dev
+   ```
 
 3. Then, click the link http://localhost:5173/ on the server or terminal to see the result.
