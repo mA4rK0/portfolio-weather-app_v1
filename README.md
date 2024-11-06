@@ -26,4 +26,7 @@ Vite v5.4.10, Link : https://vite.dev/
 ## Getting Started
 
 First, run the project by typing :
+
 `npm run dev`
+
+Then, click the link http://localhost:5173/ on the server or terminal to see the result.
