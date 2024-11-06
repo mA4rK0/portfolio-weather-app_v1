@@ -26,9 +26,10 @@ Vite v5.4.10, Link : https://vite.dev/
 ## Getting Started
 
 1. First, make a `.env` file in the root directory, then make a `VITE_API_KEY` variable to store the API Key value on the `.env` file, exm :
-   ```
-   VITE_API_KEY = YOUR_OPEN_WEATHER_API_KEY
-   ```
+
+```
+VITE_API_KEY = YOUR_OPEN_WEATHER_API_KEY
+```
 
 2. second, run the project by typing :
 
