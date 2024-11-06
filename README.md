@@ -18,3 +18,7 @@ Bootstrap Icons v1.11.3, Link : https://icons.getbootstrap.com/
 
 1. Axios v1.6.7, Link : https://github.com/axios/axios
 2. OpenWeather, Link : https://openweathermap.org/api
+
+## Module Bundlers
+
+Vite v5.4.10, Link : https://vite.dev/
