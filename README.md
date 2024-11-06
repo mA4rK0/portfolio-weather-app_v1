@@ -22,3 +22,8 @@ Bootstrap Icons v1.11.3, Link : https://icons.getbootstrap.com/
 ## Module Bundlers
 
 Vite v5.4.10, Link : https://vite.dev/
+
+## Getting Started
+
+First, run the project by typing :
+`npm run dev`
